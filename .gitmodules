@@ -1,3 +1,0 @@
-[submodule "testmod/secret"]
-	path = testmod/secret
-	url = https://github.com/engagamil/secret
